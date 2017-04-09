@@ -1,5 +1,5 @@
 
-package variablesoperadores;
+package Ejemplos;
 
 public class VariablesOperadores {
 
