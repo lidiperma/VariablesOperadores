@@ -33,7 +33,6 @@ public class VariablesOperadores {
 
     System.out.println(numeroCuentas += 1);
     System.out.println(numeroCuentas++);
-    System.out.println(++numeroCuentas);
 
     System.out.println();
 
