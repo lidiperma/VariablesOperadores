@@ -1,5 +1,5 @@
 
-package Ejemplos;
+package EjemplosVariables;
 
 
 public class EjemploVariables {
@@ -35,7 +35,7 @@ public class EjemploVariables {
         
         //Vamos a realizar un cast
         char opcion2;
-        opcion2 = (char) 133;//Obligamos a que interprete un valor int en un char
+        opcion2 = (char) 64;//Obligamos a que interprete un valor int en un char
         System.out.println("El caracter es " + opcion2 );
         //Revisar el resultado en http://www.petefreitag.com/cheatsheets/ascii-codes/
         

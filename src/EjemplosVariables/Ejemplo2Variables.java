@@ -1,5 +1,5 @@
 
-package Ejemplos;
+package EjemplosVariables;
 
 
 public class Ejemplo2Variables {

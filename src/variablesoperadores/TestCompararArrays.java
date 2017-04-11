@@ -1,5 +1,5 @@
 
-package variablesoperadores;
+package descartados;
 
  import java.util.Arrays;
 

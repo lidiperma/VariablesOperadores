@@ -1,5 +1,5 @@
 
-package variablesoperadores;
+package descartados;
 
 
 public class ComprobarNota {

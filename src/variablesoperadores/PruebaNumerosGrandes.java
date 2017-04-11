@@ -1,5 +1,5 @@
 
-package variablesoperadores;
+package descartados;
 
 import java.math.BigInteger;
 
