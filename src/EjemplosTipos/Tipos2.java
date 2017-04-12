@@ -7,10 +7,10 @@ public class Tipos2 {
     
     public static void main(String[] args) {
         
-        //DECLARACIÓN DE LA VARIABLE CON TIPO DE DATOS INT Y EL OPERADOR =ASIGNACION
+        //DECLARACIÓN DE LA VARIABLE CON TIPO DE DATOS INT 
         
         int cantidadPersonas = 20;
-        int valorHora = 23456 * 500 * cantidadPersonas; //Añadir más 0 OPERADOR *MULTIPLICACIÓN
+        int valorHora = 23456 * 500 * cantidadPersonas; //Inicialización con una expresión
         
         System.out.println("¿Cuantas personas?: " + valorHora);
         
@@ -21,7 +21,7 @@ public class Tipos2 {
         int octa = 012654;//0 indica operará con octal
         System.out.println("El valor de 12654 en decimal es " + octa);
         
-        //DECLARACIÓN DE UNA VARIABLE CON TIPO DE DATOS DOUBLE Y ASIGNACIÓN
+        //DECLARACIÓN DE UNA VARIABLE CON TIPO DE DATOS DOUBLE 
         
         double grados = 50.6505;//valor decimal o flotante
         System.out.println("Número con decimales o en coma flotante: " + grados);
