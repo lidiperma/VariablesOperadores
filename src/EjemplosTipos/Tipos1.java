@@ -17,13 +17,13 @@ public class Tipos1 {
         boolean verdadero = true;     
         
         //DECLARACIÓN DE UNA VARIABLE CON TIPO DE DATOS BOOLEANO
-        //La declaramos y la inicializamos a la vez.
-        //Es decir, a la variable "resultado" de tipo "booleano" le asigno
-        //el literal "true"
-        //Los boolean sólo pueden ser "true" o "false"
+        /*La declaramos y la inicializamos a la vez. Es decir, a la variable 
+          "resultado" de tipo "booleano" le asigno
+          el literal "true".
+          Los boolean sólo pueden ser "true" o "false"*/
         boolean resultado = true;
         boolean resultado2 = false;
-        //Imprimimos por pantalla concatenando
+        
         System.out.println("El resultado es " + resultado);
         
         //DECLARACIÓN DE UNA VARIABLE CON TIPO DE DATO CHAR
@@ -37,9 +37,6 @@ public class Tipos1 {
         char opcion2;
         opcion2 = (char) 64;//Obligamos a que interprete un valor int en un char
         System.out.println("El caracter es " + opcion2 );
-        
-
-
         //Revisar el resultado en http://www.petefreitag.com/cheatsheets/ascii-codes/
         
         
