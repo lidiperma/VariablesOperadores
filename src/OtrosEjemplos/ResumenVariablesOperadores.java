@@ -1,11 +1,12 @@
 
-package EjemplosOperadores;
+package OtrosEjemplos;
 
-public class VariablesOperadores {
+public class ResumenVariablesOperadores {
 
     
     public static void main(String[] args) {
-        // Variables
+    
+    // Variables
 
     char a = 'a';
     char b = 'b';
@@ -14,11 +15,6 @@ public class VariablesOperadores {
     int auxiliar = 30;
     long numeroCuentas = 10000000000L;
     boolean verdadero = true;       
-
-    // Constantes
-
-    final double NUMERO_PI = Math.PI; // 3.14
-    final int CERO = 0;
 
 
     // Operadores

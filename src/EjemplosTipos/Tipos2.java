@@ -1,8 +1,8 @@
 
-package EjemplosVariables;
+package EjemplosTipos;
 
 
-public class Ejemplo2Variables {
+public class Tipos2 {
 
     
     public static void main(String[] args) {
